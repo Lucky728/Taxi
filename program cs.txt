@@ -13,7 +13,7 @@ namespace Class
 
             Taxi taxi = new Taxi();
 
-            taxi.DriverName = "Jono";
+            taxi.DriverName = "Jonojoni";
             taxi.OnDuty = true;
             taxi.NumbOfPassenger = 10;
 

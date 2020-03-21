@@ -35,7 +35,7 @@ namespace Class
 
         public void DropOfPassenger()
         {
-            Console.WriteLine("{0} sedang mengantar penumpang", DriverName);
+            Console.WriteLine("{0} sedang mengantarkan penumpang", DriverName);
         }
 
     }
